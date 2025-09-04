@@ -9,6 +9,8 @@
 In my app, I included design that is engaging, stylish, and emotionally resonant. It has animation and goos use of color.
 
 ## Screenshot 
+<img width="380" height="675" alt="image" src="https://github.com/user-attachments/assets/3a60057f-e9fd-43f5-977f-b14d83c9dde9" />
+
 
 ## Reference List
 MDN Web Docs (2025) HTML: HyperText Markup Language. Mozilla Developer Network. Available at: https://developer.mozilla.org/en-US/docs/Web/HTML
